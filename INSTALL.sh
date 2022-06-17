@@ -26,6 +26,6 @@ echo "Movendo o arquivo icon.png para a pasta application"
 mv icon.png /home/$USER/.local/share/applications/
 
 echo "Executado o update-desktop-database"
-update-desktop-database /home/$USER/.local/share/applications/
+bash update-desktop-database /home/$USER/.local/share/applications/
 
 echo "Fim da instalação"
