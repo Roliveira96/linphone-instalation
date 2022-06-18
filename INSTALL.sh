@@ -9,7 +9,7 @@ echo "Dando permissão para execultar o App"
 sudo chmod a+x Linphone-4.4.1.AppImage
 
 echo "Movendo o app para a pasta application"
-mv Linphone-4.4.1.AppImage /bin/
+sudo mv Linphone-4.4.1.AppImage /bin/
 
 if [ -d "/home/$USER/.config/autostart/" ] 
 then
