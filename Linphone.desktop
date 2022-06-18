@@ -1,6 +1,7 @@
 [Desktop Entry]
 Type=Application
 Exec=/bin/Linphone-4.4.1.AppImage
+Icon=/usr/share/icons/linphone-icon.png
 Hidden=false
 NoDisplay=false
 X-GNOME-Autostart-enabled=true
