@@ -2,6 +2,8 @@
 
 O Linphone é um softphone gratuito de ligações VOIP, ele é cliente SIP. Pode ser usado para chamadas diretas de áudio e chamadas por meio de qualquer softswitch VoIP ou IP-PBX virtual.
 
+Para mais informações acesse: https://www.linphone.org/
+
 Criei esse Script Shell para facilitar e automatizar as instalações do programa em máquinas Linux Ubuntu na empresa que trabalho.
 
 Para executar esse pequeno script é bem simples.
