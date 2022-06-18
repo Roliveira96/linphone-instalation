@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
-Exec=/home/$USER/application/Linphone-4.4.1.AppImage
+Exec=/bin/Linphone-4.4.1.AppImage
 Hidden=false
 NoDisplay=false
 X-GNOME-Autostart-enabled=true
