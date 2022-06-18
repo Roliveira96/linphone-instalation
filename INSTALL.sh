@@ -26,6 +26,6 @@ echo "Movendo o arquivo icon.png para a pasta application"
 mv /home/$USER/linphone-instalation/icon.png /home/$USER/.local/share/applications/
 
 echo "Executado o update-desktop-database"
-bash update-desktop-database /home/$USER/.local/share/applications/
+update-desktop-database /home/$USER/.local/share/applications/
 
 echo "Fim da instalação"
