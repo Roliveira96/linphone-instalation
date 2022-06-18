@@ -22,7 +22,7 @@ Agora basta dar as permissões necessárias para que o script funcione como prog
 
 E por fim executar o comando: 
 
-`sudo ./INSTALL.sh`
+`./INSTALL.sh`
 
 Confira a instalação no GIF abaixo:
 
