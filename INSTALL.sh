@@ -26,7 +26,7 @@ echo "Movendo o arquivo Linphone.desktop para a pasta application"
 mv /home/$USER/linphone-instalation/Linphone.desktop /home/$USER/.local/share/applications/
 
 echo "Movendo o arquivo icon.png para a pasta application"
-sudo mv /home/$USER/linphone-instalation/icon.png /usr/share/icons/
+sudo mv /home/$USER/linphone-instalation/linphone-icon.png /usr/share/icons/
 
 echo "Executado o update-desktop-database"
 update-desktop-database /home/$USER/.local/share/applications/
