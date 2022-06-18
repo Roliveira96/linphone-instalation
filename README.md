@@ -33,6 +33,11 @@ Confira a autoexecução do programa ao reiniciar a máquina:
 
 ![Peek 18-06-2022 13-251](https://user-images.githubusercontent.com/14916078/174447874-d7b93e5d-4f62-47e5-89a9-32872af0c0ab.gif)
 
+O Script também gera um icone para execução via dash do Ubuntu. 
+
+![Peek 18-06-2022 13-28](https://user-images.githubusercontent.com/14916078/174447968-754d5386-bbe0-407d-91f5-aced37edb362.gif)
+
+
 
 
 
