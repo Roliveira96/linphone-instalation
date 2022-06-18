@@ -24,12 +24,17 @@ E por fim executar o comando:
 
 `sudo ./INSTALL.sh`
 
-Confira a instalação nos GIFs abaixo
-
-![Peek 17-06-2022 22-10](https://user-images.githubusercontent.com/14916078/174416838-c035ab1f-27cf-40d9-8fd8-07e19b642693.gif)
+Confira a instalação nos GIFs abaixo:
 
 
-![Peek 17-06-2022 22-14](https://user-images.githubusercontent.com/14916078/174416842-e440066c-91f9-4816-8dd2-0b5ac46af079.gif)
+![Peek 18-06-2022 13-25](https://user-images.githubusercontent.com/14916078/174447832-755dc6ff-df10-4c36-9bd6-f9d265665027.gif)
+
+Confira a autoexecução do programa ao reiniciar a máquina: 
+
+![Peek 18-06-2022 13-251](https://user-images.githubusercontent.com/14916078/174447874-d7b93e5d-4f62-47e5-89a9-32872af0c0ab.gif)
+
+
+
 
 
 
