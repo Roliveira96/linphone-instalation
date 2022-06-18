@@ -19,6 +19,9 @@ sudo chmod a+x Linphone-4.4.1.AppImage
 echo "Movendo o app para a pasta application"
 mv Linphone-4.4.1.AppImage /home/$USER/application
 
+echo "Copian o arquivo Linphone.desktop para a pasta .config/autostart para autoinicialização"
+cp /home/$USER/linphone-instalation/Linphone.desktop /home/$USER/.local/share/applications/
+
 echo "Movendo o arquivo Linphone.desktop para a pasta application"
 mv /home/$USER/linphone-instalation/Linphone.desktop /home/$USER/.local/share/applications/
 
