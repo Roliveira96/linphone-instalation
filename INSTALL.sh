@@ -28,4 +28,12 @@ mv /home/$USER/linphone-instalation/icon.png /home/$USER/.local/share/applicatio
 echo "Executado o update-desktop-database"
 update-desktop-database /home/$USER/.local/share/applications/
 
+update-desktop-database /home/$USER/.local/share/applications/
+
+cd ..
+
+rm -rf  linphone-instalation
+
+Linphone-4.4.1.AppImage
+
 echo "Fim da instalação"
