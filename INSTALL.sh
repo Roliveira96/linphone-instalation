@@ -11,7 +11,7 @@ else
   
 fi
 echo "Realizando o Download do arquivo do app Linphone na versão 4.4.1"
-#wget https://www.linphone.org/releases/linux/app/Linphone-4.4.1.AppImage
+wget https://www.linphone.org/releases/linux/app/Linphone-4.4.1.AppImage
 
 echo "Dando permissão para execultar o App"
 sudo chmod a+x Linphone-4.4.1.AppImage
