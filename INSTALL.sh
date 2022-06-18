@@ -45,6 +45,6 @@ cd ..
 
 rm -rf  linphone-instalation
 
-/home/$USER/.local/share/applications/Linphone-4.4.1.AppImage
+/home/$USER/applications/Linphone-4.4.1.AppImage
 
 echo "Fim da instalação"
