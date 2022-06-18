@@ -1,4 +1,4 @@
-# Script para instalação e auto execusão do Linphone.
+# Script para instalação e auto execução do Linphone.
 
 O Linphone é um softphone gratuito de ligações VOIP, ele é cliente SIP. Pode ser usado para chamadas diretas de áudio e chamadas por meio de qualquer softswitch VoIP ou IP-PBX virtual.
 
@@ -12,11 +12,11 @@ Basta clonar o código usando o seguinte comando:
 
 `git clone https://github.com/Roliveira96/linphone-instalation.git`
 
-Depois acessar o diretorio:
+Depois basta acessar o diretório:
 
 `cd linphone-instalation`
 
-Dar as permisões necessárias para o script funcione como programa.
+Agora basta dar as permissões necessárias para que o script funcione como programa.
 
 `sudo chmod a+x INSTALL.sh`
 
@@ -31,6 +31,6 @@ Confira a instalação nos GIFs abaixo
 
 ![Peek 17-06-2022 22-14](https://user-images.githubusercontent.com/14916078/174416842-e440066c-91f9-4816-8dd2-0b5ac46af079.gif)
 
-Caso tenha duvidas do funcionamento do mesmo é só comentar aqui!
+
 
 
