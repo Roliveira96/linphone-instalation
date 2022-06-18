@@ -1,10 +1,10 @@
 # Script para instalação e auto execução do Linphone.
 
-O Linphone é um softphone gratuito de ligações VOIP, ele é cliente SIP. Pode ser usado para chamadas diretas de áudio e chamadas por meio de qualquer softswitch VoIP ou IP-PBX virtual.
+O Linphone é um softphone gratuito para ligações VOIP, próprio para linhas SIP. Pode ser usado para chamadas diretas de áudio e chamadas por meio de qualquer softswitch VoIP ou IP-PBX virtual.
 
-Para mais informações acesse: https://www.linphone.org/
+Para mais informações acesse o site da Linphone: https://www.linphone.org/
 
-Criei esse Script Shell para facilitar e automatizar as instalações do programa em máquinas Linux Ubuntu na empresa que trabalho.
+Esse Script Shell é para facilitar e automatizar as instalações do programa Linphone em máquinas Linux Ubuntu.
 
 Para executar esse pequeno script é bem simples.
 
@@ -24,7 +24,7 @@ E por fim executar o comando:
 
 `sudo ./INSTALL.sh`
 
-Confira a instalação nos GIFs abaixo:
+Confira a instalação no GIF abaixo:
 
 
 ![Peek 18-06-2022 13-25](https://user-images.githubusercontent.com/14916078/174447832-755dc6ff-df10-4c36-9bd6-f9d265665027.gif)
